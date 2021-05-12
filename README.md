@@ -8,4 +8,4 @@ R code will be saved here for all team members to access and share the latest ve
 * We will assign one person to conduct code merges since we won't be using GitHub's push and pull functionality to manage code version control.
 * If you use a function from a package not in the list in the 'package' code chunk, add it to the list and notify the team on the Teams chat that they will need to install a new package
 
-Powerpoint files and reports will be saved in the Microsoft Teams channel, '<name>'
+Powerpoint files and reports will be saved in the Microsoft Teams team [CDC-Data-Science-Certificate-Program](https://teams.microsoft.com/l/team/19%3a58d5a60b6efb4e07bf0048c16754b157%40thread.tacv2/conversations?groupId=769c0a8b-507c-4225-a2f1-0e2dd62d0c8e&tenantId=9ce70869-60db-44fd-abe8-d2767077fc8f). We will use the Group B channel to store our files.
